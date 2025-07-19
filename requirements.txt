@@ -1,4 +1,4 @@
 streamlit
-pyttsx3
-SpeechRecognition
-pyaudio
+pyttsx3==2.90
+SpeechRecognition==3.10
+
